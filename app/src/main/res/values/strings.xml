@@ -1,0 +1,8 @@
+<resources>
+    <!--Menu Navigation Bar Title-->
+    <string name="item1">List Biasa</string>
+    <string name="item3">List Kustom</string>
+    <string name="item4">Transaction</string>
+
+    <string name="app_name">BottomNavDraw</string>
+</resources>
